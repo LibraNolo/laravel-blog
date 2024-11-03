@@ -42,23 +42,23 @@ This is a simple blog platform built using Laravel, providing users with the abi
    cd blog
 
 
-Using the Platform
+## Using the Platform
 Accessing the Dashboard
 To manage your blog posts, navigate to http://127.0.0.1:8000/dashboard. Here you can create, update, and delete posts.
 
-Creating a Post
-Click on the "Create Post" button.
-Fill in the title and body of the post.
-Click "Submit" to save the post.
-Viewing Posts
-Posts can be viewed from the dashboard or by visiting http://127.0.0.1:8000/dashboard/posts.
-Editing a Post
-From the dashboard, click the "Edit" button next to the post you want to edit.
-Update the title and body as needed.
-Click "Update" to save changes.
-Deleting a Post
-From the dashboard, click the "Delete" button next to the post you want to delete.
-Confirm the deletion when prompted.
+1.**Creating a Post**
+    Click on the "Create Post" button.
+    Fill in the title and body of the post.
+    Click "Submit" to save the post.
+    Viewing Posts
+    Posts can be viewed from the dashboard or by visiting http://127.0.0.1:8000/dashboard/posts.
+2.**Editing a Post**
+    From the dashboard, click the "Edit" button next to the post you want to edit.
+    Update the title and body as needed.
+    Click "Update" to save changes.
+3.**Deleting a Post**
+    From the dashboard, click the "Delete" button next to the post you want to delete.
+    Confirm the deletion when prompted.
 
 ## License
 
