@@ -17,6 +17,7 @@ This is a simple blog platform built using Laravel, providing users with the abi
 - **Bootstrap**: CSS framework for responsive design
 - **MySQL**: Relational database management system
 - **Composer**: Dependency manager for PHP
+- **Breeze**: Aunthentication manager for PHP
 - **Blade**: Templating engine for Laravel
 
 ## Features
