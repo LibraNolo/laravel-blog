@@ -60,6 +60,11 @@ To manage your blog posts, navigate to http://127.0.0.1:8000/dashboard. Here you
     From the dashboard, click the "Delete" button next to the post you want to delete.
     Confirm the deletion when prompted.
 
+## Database Schema
+Tables:
+Users (for all registered useres)
+Blogs (for all blogs created by a logged in user)
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
